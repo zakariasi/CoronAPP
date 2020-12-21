@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">CoronApp</string>
+    <string name="warning_1">Tetap gunakan masker untuk mengurangi potensi terpapar corona</string>
+    <string name="data_global">Data Global</string>
+    <string name="todo">TODO</string>
+    <string name="last_updated_global">2020-12-14 20.29</string>
+    <string name="terkomfirmasi">TERKOMFIRMASI</string>
+    <string name="global_terkonfirmasi_txt">67799199</string>
+    <string name="dunia">Dunia</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="data_global_sembuh_jumlah">43167155</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="data_global_meninggal_jumlah">1543211</string>
+    <string name="data_negara">Data Negara</string>
+    <string name="last_updated">Last updated:</string>
+    <string name="last_update_negara_time">2020-12-16</string>
+    <string name="negara_terkonfimasi_value">1299199</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="data_negara_sembuh_value">1543211</string>
+    <string name="data_negara_meninggal_value">1543211</string>
+    <string name="data_provinsi">Data Provinsi</string>
+    <string name="last_updated_provinsi">2020-12-12</string>
+    <string name="sumatera_utara">Sumatera Utara</string>
+    <string name="coronapp">CoronAPP</string>
+    <string name="image_splashscreen">Image splashscreen</string>
+</resources>
